@@ -15,10 +15,7 @@ $ pkg update && pkg upgrade
 $ pkg install git
 $ git clone https://github.com/SansBae/mbf-sans.git
 $ bash setup.sh
-
-
-
-``
+```
 
 ## YOUTUBE
 Click [here](https://www.youtube.com/c/SANSBAE) To Subscribe My Channel
