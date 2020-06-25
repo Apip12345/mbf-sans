@@ -1,7 +1,5 @@
 #bin/bash
 clear
-echo
 echo "Proses Logout Sedang Berlangsung !!!!"
-echo
-rm cookies
+rm -f cookies
 echo "Proses Logout Telah Berhasil"
