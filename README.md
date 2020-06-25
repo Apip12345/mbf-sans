@@ -12,15 +12,10 @@
 ## Installation
 ```
 $ pkg update && pkg upgrade
-$ apt install python -y
-$ pkg install python
-$ apt install git
-$ pip install requests bs4
-$ python3 -m pip install requests bs4
-$ git clone https://github.com/SansBae/multi-mbf
-$ cd multi-mbf
-$ python3 sans.py
-```
+$ pkg install git
+$ git clone https://github.com/SansBae/mbf-sans.git
+$ bash setup.sh
+``
 
 ## YOUTUBE
 Click [here](https://www.youtube.com/c/SANSBAE) To Subscribe My Channel
