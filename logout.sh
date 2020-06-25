@@ -1,4 +1,5 @@
 #bin/bash
+#recodeanakdajjal
 clear
 echo
 echo "Proses Logout Sedang Berlangsung !!!!"
